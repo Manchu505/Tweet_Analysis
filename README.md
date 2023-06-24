@@ -21,6 +21,8 @@ Twitter's API limits you to querying the most recent 3200 tweets.  I have  creat
 ## Example:
 
 I'll run the script on Artifical Intelligence (AI) with 100 tweets.
+![Run_script](https://github.com/Manchu505/Tweet_Analysis/assets/19881829/39603b87-b69c-4ad4-89cd-65d176f9d15d)
+![results_script](https://github.com/Manchu505/Tweet_Analysis/assets/19881829/15355820-0dd7-4998-b130-b44aab85910d)
 
 ## Using the Scraper
 
